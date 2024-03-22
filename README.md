@@ -1,1 +1,1 @@
-#  ALT EXAM PROJECT Deployment of Vagrant Ubuntu Cluster with LAMP Stack
+#  ALT CAPSTONE PROJECT
